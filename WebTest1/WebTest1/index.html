@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <script type="text/javascript">
+
+        function myTimmer() {
+            nIntervId = setInterval(getText, 3000);
+        }
+
+        function getText() {
+            var text = $('textarea#note-textarea').val();
+        }
+
+        function click() {
+            alert("Started");
+        }
+    </script>
+</head>
+<body onload="myTimmer();">
+
+    <div class="container">
+        <h3 class="no-browser-support">Sorry, Try Opening This Demo In Google Chrome.</h3>
+        <div class="app">
+            <h3>Add New Note</h3>
+            <div class="input-single">
+                <textarea id="note-textarea" rows="6"></textarea>
+            </div>
+            <button id="start-record-btn" title="Start Recording">Start Recognition</button>
+            <button id="pause-record-btn" title="Pause Recording">Pause Recognition</button>
+            <button id="save-note-btn" title="Save Note">Save Note</button>
+            <p id="recording-instructions">Press the <strong>Start Recognition</strong> button and allow access.</p>
+        </div>
+    </div>
+    <script src="jquery.min.js"></script>
+    <script src="script.js"></script>
+
+    <script src="v3.js" async></script>
+</body>
+</html>
