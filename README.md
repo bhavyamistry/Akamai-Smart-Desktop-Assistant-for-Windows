@@ -82,5 +82,4 @@ Follow these steps to install and run the ASP.NET application:
 ![Google Web Speech API](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20web%20speech%20API&logoColor=white)
 
 ## Project-Demonstration
-
-[![Demo](https://github.com/bhavyamistry/Akamai-Smart-Desktop-Assistant-for-Windows/assets/58860047/24110cd8-65a3-4c09-9e29-2107d92a6172)](https://drive.google.com/drive/folders/1kF-Ze6cPCYKYVdfKoIHOQJ-GIMbsDCRf?usp=share_link)
+[![Demo](https://github.com/bhavyamistry/Akamai-Smart-Desktop-Assistant-for-Windows/assets/58860047/c34348ff-17b8-4008-8e06-8436bcf0ac27)](https://drive.google.com/drive/folders/1kF-Ze6cPCYKYVdfKoIHOQJ-GIMbsDCRf?usp=share_link)
