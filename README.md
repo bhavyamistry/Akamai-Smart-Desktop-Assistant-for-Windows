@@ -1,6 +1,6 @@
 ## Akamai - Smart Windows-based Voice Assistant
 
-<img src="https://github.com/bhavyamistry/Akamai-Smart-Desktop-Assistant-for-Windows/assets/58860047/6bc61942-3454-470f-a52e-9172300acc59" height="50%" alt="vector" align="center">
+<img src="https://github.com/bhavyamistry/Akamai-Smart-Desktop-Assistant-for-Windows/assets/58860047/6bc61942-3454-470f-a52e-9172300acc59" width="50%" alt="vector" align="center">
 
 ## Project Overview
 
