@@ -1,6 +1,6 @@
 ## Akamai - Smart Windows-based Voice Assistant
 
-<img src="https://github.com/bhavyamistry/Shatranj-Chess-Tutor/assets/58860047/1506ded6-bb10-4f9d-a215-299cf7af162e" alt="vector" align="center">
+<img src="https://github.com/bhavyamistry/Akamai-Smart-Desktop-Assistant-for-Windows/assets/58860047/6bc61942-3454-470f-a52e-9172300acc59" alt="vector" align="center">
 
 ## Project Overview
 
