@@ -1,5 +1,7 @@
 ## Akamai - Smart Windows-based Voice Assistant
 
+<img src="https://github.com/bhavyamistry/Shatranj-Chess-Tutor/assets/58860047/1506ded6-bb10-4f9d-a215-299cf7af162e" alt="vector" align="center">
+
 ## Project Overview
 
 Akamai is a voice-based personal assistant designed to streamline tasks within an enterprise environment. It serves as a versatile tool for various functions including search, reminders, and note-taking, all through voice commands. With Akamai, users can effortlessly interact with their system by simply speaking commands.
@@ -77,6 +79,7 @@ Follow these steps to install and run the ASP.NET application:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Google Web Speech API](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 
 ## Project-Demonstration
 
